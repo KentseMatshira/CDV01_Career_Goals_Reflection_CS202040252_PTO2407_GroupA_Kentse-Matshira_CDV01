@@ -30,7 +30,7 @@ CSS: Styling and layout are within your grasp.
 JavaScript: I am familiar with creating interactive elements.
 Tailwind: I've explored this utility-first CSS framework.
 Portfolio and Social Media Pages: Crafting these showcases my work effectively.
-Skills to Develop or Improve: While I have a solid foundation, continuous improvement is essential. I continue refining my existing skills and exploring new ones. There's always room for growth!🌟💻
+Skills to Develop or Improve: While I have a solid foundation, continuous improvement is essential. I continue refining my existing skills and exploring new ones. There's always room for growth!
 
 Interests and Values:
 
@@ -82,7 +82,7 @@ Understanding how to use Tailwind CSS effectively could improve UI consistency a
 
 
 
-I am quite aware that both Amazon and Google have diverse teams, so there are many other roles where my skills could be valuable. I shall keep exploring opportunities, building projects, and showcasing my abilities! 
+I am quite aware that both Amazon and CISCO have diverse teams, so there are many other roles where my skills could be valuable. I shall keep exploring opportunities, building projects, and showcasing my abilities! 
 
 Part 3: SMART Career Goals
 Short-term Goals (Next 1-2 years):
